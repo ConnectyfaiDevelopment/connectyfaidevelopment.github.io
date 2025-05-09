@@ -95,7 +95,7 @@ docs/
 ├── index.md # Your homepage
 ├── about.md # About page
 ├── portfolio/ # Your work
-├── blog/ # Blog posts
+├── writings/ # Writings posts
 └── assets/ # Images and other files
 ```
 

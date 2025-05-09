@@ -1,24 +1,29 @@
 ---
-title: Case Studies
-description: Datalumina B.V. is a data, analytics, and artificial intelligence company founded by Dave Ebbelaar to help businesses integrate AI and data into their operations. 
+title: Success Stories
+description: Production-ready AI implementation by Rok Popov Ledinski. Proven solutions that transform AI failures into measurable business success through evaluation-first methodology.
 ---
 
-# Featured Projects
+# AI Success Stories
 
-Welcome to my portfolio of data science and AI projects. Each project demonstrates my expertise in delivering impactful solutions to real-world business challenges.
+While 80% of AI projects fail, these success stories demonstrate how evaluation-first methodology transforms business challenges into measurable results. Each project follows my proven approach: evaluate before implementing, connect AI to real business data, and deliver systems that work in production.
 
 <div class="grid cards" markdown>
 
--   [AI Customer Care Bot for Dev X](projects/project-1.md)
+-   [AI Maddy: Education AI that Saved Teachers 12 Hours Weekly](projects/project-1.md)
 
     ---
 
-    An AI-powered chatbot solution for Dev X that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
+    Transformed classroom management through evaluation-first AI implementation that connected directly to school systems. Delivered 80% accuracy, sub-2-second responses, and 12 hours weekly time savings per teacher. Scaled successfully to 20+ schools by focusing on real-world needs over theoretical capabilities.
 
--   [Enterprise Chatbot for Company Y](projects/project-2.md)
+- [AI Coding Assistant: Enterprise Test Automation That Saved 20,000 Hours](projects/ai-coding-assistant.md)
 
     ---
 
-    A private ChatGPT-like tool for the Company Y that revolutionizes mobility data analysis by combining structured SQL data with unstructured policy documents. Built with OpenAI and modern cloud architecture for comprehensive public sector policy evaluation.
+    Transformed developer productivity by implementing evaluation-first AI that preserved code privacy while automating test creation. Improved code coverage by 30%, reclaimed 20,000 annual developer hours, and reduced production incidents by 25%. Successfully deployed across 30+ global offices with minimal training.
 
+-   [Banking AI Assistant: From 50% to 82% Accuracy in 8 Weeks](projects/banking-ai-assistant.md)
+
+    ---
+
+    Rescued a failing banking AI pilot through systematic evaluation that identified critical RAG pipeline issues. Improved accuracy from 50% to 82%, reduced hallucinations by 70%, and enabled expansion from a single pilot to multiple banking clients without disrupting existing systems.
 </div>

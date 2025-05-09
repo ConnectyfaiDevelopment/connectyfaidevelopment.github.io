@@ -1,17 +1,18 @@
-site_name: Your Site Name
+site_name: Rok Popov Ledinski
 site_description: Your site description
 site_url: https://yourdomain.com
 
 nav:
   - Home:
     - About: index.md
-  - Case Studies:
-    - Overview: portfolio/index.md
-    - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md 
+  - Success Stories:
+    - Overview: portfolio/index.md
+    - Projects:
+      - portfolio/projects/ai-maddy.md
+      - portfolio/projects/ai-coding-assistant.md
+      - portfolio/projects/banking-ai-assistant.md
 
 theme:
   name: material
@@ -51,14 +52,14 @@ theme:
 extra:
   generator: true
   social:
-    - icon: fontawesome/solid/building
-      link: https://company.com
+    # - icon: fontawesome/solid/building
+    #   link: https://company.com
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/RokPopov
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://www.youtube.com/@RokPopov
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: https://www.linkedin.com/in/rok-popov-ledinski/
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
@@ -102,4 +103,4 @@ extra_files:
   - docs/robots.txt
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.
+  &copy; 2025 <a href="https://www.linkedin.com/in/rok-popov-ledinski/" target="_blank" rel="noopener">Rok Popov Ledinski</a>. All rights reserved.

@@ -1,30 +1,27 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: AI implementation that works. Discover evaluation frameworks, production deployment, and integrating AI solutions with Rok that deliver real business value.
+keywords: Rok Popov Ledinski, AI entrepreneur, ConnectyfAI, AI automations, AI Agents, GenAI
+author: Rok Popov Ledinski
+canonical_url: https://www.rokpopovledinski.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
-  "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
+  "name": "Rok Popov Ledinski",
+  "url": "https://www.rokpopovledinski.com/",
+  "image": "https://avatars.githubusercontent.com/u/59090063?v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.linkedin.com/in/rok-popov-ledinski/",
+    "https://github.com/rokpopov"
   ],
-  "jobTitle": "Founder & CEO",
+  "jobTitle": "Applied AI Engineer and Consultant",
   "worksFor": {
     "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
+    "name": "ConnectyfAI",
+    "url": "https://www.connecyfai.com/"
   },
 }
 </script>
@@ -33,137 +30,137 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+# AI Engineer & Applied Consultant that gets you measurable ROI from AI
 
-### I have 5+ years experience doing just that
+### 80% of AI projects fail. Yours doesn't have to.
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
+**Are you struggling with:**
 
-- Do you need help translating AI hype into real business results?
+- AI tool paralysis in the sea of neverending options?
+- Teams wasting resources on unproven solutions?
+- AI solutions disconnected from your company knowledge?
+- Terrified of wasting budget on failed projects?
 
-- Want to implement AI effectively before competitors get ahead?
-
-- Looking for technical expertise and a clear roadmap for AI solutions?
-
-- Need someone who understands both technical and business perspectives?
-
-[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+[Book a Free 30-min Strategy Call! :material-arrow-top-right:](https://cal.com/rok-popov-ledinski/free-consultation){ .md-button .md-button--primary }
 
 </div>
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Rok Popov Ledinski, AI Engineer and Applied Consultant](assets/rok_popov_ledinski_avatar.png){ .profile-image alt="Portrait of Rok Popov Ledinski, AI engineer and consultant" }
 
 </div>
 
 </div>
 
-## About me
+## Quick Intro
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+Hi, I'm Rok - an independent AI engineer and applied consultant specializing in production-ready implementation. I help growth-stage companies deploy AI systems that actually work through evaluation-first methodology and technical expertise. With over 5 years of engineering experience at Adyen and hands-on AI project delivery, I focus on bridging strategy and execution to deliver measurable business value.
 
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
+**You should work with me if:**
 
-## Why work with me?
+- You need AI systems that work in production, not just demos
+- Your team lacks clear evaluation frameworks for AI projects
+- You want someone who bridges technical depth with business outcomes
+
+**Proven results:**
+
+- Customer Care AI: 70% reduced ticket resolution time
+- AI Educational Assistant: 12 hours saved weekly per educator
+- Enterprise LLM Solution: 20,000 developer hours saved
 
 Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
+-   :fontawesome-solid-building-user:{ .lg .middle } Proven Integration Expertise
 
     ---
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+    With 5 years at Adyen building mission-critical payment and AI systems, I bring deep integration expertise to every AI project. I ensure AI solutions connect seamlessly with your existing systems and data, avoiding the technical debt that dooms most implementations.
 
--   :material-youtube:{ .lg .middle } Educator & Communicator
-
-    ---
-
-    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
-
--   :material-school:{ .lg .middle } Industry Expert
+-   :material-chart-line:{ .lg .middle } Evaluation-First Approach
 
     ---
 
-    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+    My evaluation frameworks validate AI investments before you commit resources. This methodology consistently beats the 80% industry failure rate by identifying data issues, integration challenges, and ROI metrics upfront, saving you from costly failures.
 
--   :material-rocket:{ .lg .middle } Fast Implementation
+-   :material-school:{ .lg .middle } Cross-Industry Experience
 
     ---
 
-    I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
+    I've delivered AI solutions across education, enterprise, and customer support. My methodology applies across industries, identifying what works in your specific context and delivering measurable results to your business regardless of sector.
+
+-   :material-rocket:{ .lg .middle } Production-Ready Implementation
+
+    ---
+
+    While most AI projects never move beyond demos, I specialize in building systems that perform in real-world conditions. My focus on production deployment, data quality, and business metrics ensures your AI investment delivers actual value, not just impressive demos.
 
 </div>
 
-## What my past clients say about my work
+<!-- ## What my past clients say about my work
 
 <div class="grid cards testimonials" markdown>
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
+-   :material-format-quote-open:{ .lg .middle } Dave Ebbelaar
     
-    Founder at Sferal
+    Founder at Datalumina
 
     ---
 
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+    "Working with many freelancers, we rarely experienced such rapid and comprehensive execution. Rok doesn't just complete tasks — he proactively identifies issues, educates our team, and delivers solutions that actually solve business problems. He understands AI deeply and translates it into practical value for our company."
 
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
+-   :material-format-quote-open:{ .lg .middle } Ran Bytton
     
-    Founder at Viverve
+    Founder at Natura Life Science
 
     ---
 
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
+    "After working with countless developers, Rok stands out as a true all-rounder. He instantly evaluates whether AI is needed or if simpler solutions will work, communicates with exceptional clarity, and integrates seamlessly across our organization. What's most impressive is his business-first mindset - every implementation delivers actual value, on time, every time."
 
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
+-   :material-format-quote-open:{ .lg .middle } Johannes Bittag
     
-    Founder at Crypto Insiders
+    Founder at Brandcouture
 
     ---
 
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
+    "Rok transformed our product's development, taking us from concept to production in just three months. He seamlessly implemented enhanced AI capabilities, built our payment integration, and delivered across the entire stack with remarkable speed and precision. Finding an engineer who understands both AI systems and business operations at such a high level of quality was game-changing for our timeline and market entry."
 
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
-
-    ---
-
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
-
-</div>
+</div> -->
 
 ## Frequently asked questions
 
-??? note "How quickly can you start working on my project?"
-    I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+??? note "How do you ensure AI projects don't fail like 80% of implementations?"
+    My evaluation-first approach validates AI feasibility before major investment. We assess your data quality, integration requirements, and success metrics upfront. This methodology identifies potential issues early, ensures alignment with business goals, and creates a clear implementation roadmap that dramatically improves success rates.
 
-??? note "Do you require a minimum project size or commitment?"
-    While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+??? note "What types of AI projects do you specialize in?"
+    My expertise lays in implementing production-ready AI systems that integrate with existing business data and workflows. This includes RAG knowledge systems, customer support AI, educational assistants, and business process automation. My focus is always on solutions that deliver measurable ROI, not just impressive demos.
 
-??? note "What industries do you have experience in?"
-    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+??? note "Do you work with clients who have little technical AI knowledge?"
+    Absolutely. Many of my clients have limited technical AI expertise. I bridge the gap between business needs and technical implementation, explaining concepts in clear language and focusing on business outcomes rather than technical jargon. My goal is to empower you to make informed decisions without requiring deep technical knowledge.
 
 ??? note "How do you handle data security and confidentiality?"
-    I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+    Data security is foundational to any system. I implement industry-standard encryption for all data transfers, sign comprehensive NDAs before accessing any information, and follow strict security protocols throughout the project lifecycle. I can seamlessly integrate with your existing security infrastructure or help establish appropriate safeguards for your AI systems.
 
 ??? note "What's your pricing structure?"
-    I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+    I offer both project-based pricing and monthly retainers based on your needs. Project fees are determined by scope, complexity, and expected business impact rather than hours worked. For ongoing AI implementation and optimization, I provide flexible retainer packages. Let's discuss your specific requirements to determine the most effective approach.
+
+??? note "How do you measure success for AI implementations?"
+    Success is measured by the specific business metrics we establish during the evaluation phase. This might include reduced support costs, time saved, revenue generated, or other KPIs aligned with your business goals. I implement monitoring and observability frameworks that track these metrics continuously, ensuring you can clearly see the ROI of your AI investment.
 
 ??? note "How do you communicate progress and results?"
-    I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
+    I provide structured weekly updates with measurable progress metrics, host regular alignment meetings, and document all implementation decisions. My evaluation framework creates transparency throughout the process, ensuring you always understand where we are, what's next, and how it connects to your business goals.
 
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 
--   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+-   :material-coffee:{ .lg .middle } Let's talk!
 
     ---
     
     Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+    [Book a Free Intro Call :material-arrow-top-right:](https://cal.com/rok-popov-ledinski/free-consultation){ .md-button .md-button--primary }
 
 </div>

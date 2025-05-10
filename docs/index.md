@@ -74,13 +74,13 @@ Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-building-user:{ .lg .middle } Software Engineering Advantage
+-   :material-apps:{ .lg .middle } Software Engineering Advantage
 
     ---
 
     Unlike AI/data consultants who excel at AI models but struggle with production systems, I architect end-to-end solutions that integrate seamlessly with existing business infrastructure.
 
--   :fontawesome-solid-building-user:{ .lg .middle } Proven Integration Expertise
+-   :material-api:{ .lg .middle } Proven Integration Expertise
 
     ---
 
@@ -92,7 +92,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     My evaluation frameworks validate AI investments before you commit resources. This methodology consistently beats the 80% industry failure rate by identifying data issues, integration challenges, and ROI metrics upfront, saving you from costly failures.
 
--   :material-school:{ .lg .middle } Cross-Industry Experience
+-   :material-domain:{ .lg .middle } Cross-Industry Experience
 
     ---
 

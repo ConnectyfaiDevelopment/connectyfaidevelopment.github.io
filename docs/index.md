@@ -62,16 +62,23 @@ Hi, I'm Rok - an independent AI engineer and applied consultant specializing in 
 - You need AI systems that work in production, not just demos
 - Your team lacks clear evaluation frameworks for AI projects
 - You want someone who bridges technical depth with business outcomes
+- Your AI needs require someone who understands both AI capabilities and production software engineering
 
 **Proven results:**
 
-- Customer Care AI: 70% reduced ticket resolution time
+- Customer Care AI: Integrated with existing support systems - 70% reduced ticket resolution time
 - AI Educational Assistant: 12 hours saved weekly per educator
-- Enterprise LLM Solution: 20,000 developer hours saved
+- Enterprise LLM Solution: Production-grade deployment - 20,000 developer hours saved
 
 Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards" markdown>
+
+-   :fontawesome-solid-building-user:{ .lg .middle } Software Engineering Advantage
+
+    ---
+
+    Unlike AI/data consultants who excel at AI models but struggle with production systems, I architect end-to-end solutions that integrate seamlessly with existing business infrastructure.
 
 -   :fontawesome-solid-building-user:{ .lg .middle } Proven Integration Expertise
 
@@ -155,7 +162,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 
--   :material-coffee:{ .lg .middle } Let's talk!
+-   :material-coffee:{ .lg .middle } Let's solve your implementation roadblocks!
 
     ---
     

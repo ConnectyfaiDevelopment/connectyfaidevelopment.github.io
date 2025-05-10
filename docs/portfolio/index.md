@@ -9,7 +9,7 @@ While 80% of AI projects fail, these success stories demonstrate how evaluation-
 
 <div class="grid cards" markdown>
 
--   [AI Maddy: Education AI that Saved Teachers 12 Hours Weekly](projects/project-1.md)
+-   [AI Maddy: Education AI that Saved Teachers 12 Hours Weekly](projects/ai-maddy.md)
 
     ---
 

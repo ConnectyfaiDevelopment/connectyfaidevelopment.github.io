@@ -53,6 +53,16 @@ canonical_url: https://www.rokpopovledinski.com/
 
 </div>
 
+**Real results from real implementations:**
+
+- **20,000 developer hours saved** annually through automated test generation at global fintech
+- **50% to 82% accuracy improvement** for failing banking AI in 8 weeks  
+- **12 hours reclaimed weekly** per teacher through AI administrative assistant
+- **30% test coverage improvement** after previous AI initiatives failed
+- **Zero system disruption** while delivering 10x ROI in first year
+
+[See Full Case Studies →](portfolio/){ .md-button }
+
 ## Quick Intro
 
 Hi, I'm Rok - an independent AI engineer and applied consultant specializing in production-ready implementation. I help growth-stage companies deploy AI systems that actually work through evaluation-first methodology and technical expertise. With over 5 years of engineering experience at Adyen and hands-on AI project delivery, I focus on bridging strategy and execution to deliver measurable business value.
@@ -64,13 +74,9 @@ Hi, I'm Rok - an independent AI engineer and applied consultant specializing in 
 - You want someone who bridges technical depth with business outcomes
 - Your AI needs require someone who understands both AI capabilities and production software engineering
 
-**Proven results:**
+[Book a Free 30-min Strategy Call! :material-arrow-top-right:](https://cal.com/rok-popov-ledinski/free-consultation){ .md-button .md-button--primary }
 
-- Customer Care AI: Integrated with existing support systems - 70% reduced ticket resolution time
-- AI Educational Assistant: 12 hours saved weekly per educator
-- Enterprise LLM Solution: Production-grade deployment - 20,000 developer hours saved
-
-Here's what sets me apart and how I can help drive value for your business:
+**Here's what sets me apart and how I can help drive value for your business:**
 
 <div class="grid cards" markdown>
 

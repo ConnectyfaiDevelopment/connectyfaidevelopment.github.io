@@ -61,7 +61,7 @@ canonical_url: https://www.rokpopovledinski.com/
 - **30% test coverage improvement** after previous AI initiatives failed
 - **Zero system disruption** while delivering 10x ROI in first year
 
-[See Full Case Studies →](portfolio/){ .md-button }
+[See Full Case Studies →](portfolio/index.md){ .md-button }
 
 ## Quick Intro
 

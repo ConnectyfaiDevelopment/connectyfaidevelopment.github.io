@@ -53,17 +53,12 @@ theme:
 extra:
   generator: true
   social:
-    # - icon: fontawesome/solid/building
-    #   link: https://company.com
     - icon: fontawesome/brands/github
       link: https://github.com/RokPopov
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@RokPopov
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/rok-popov-ledinski/
-  analytics:
-    # provider: google
-    # property: G-W9Y130NXVZ
 
 extra_css:
   - stylesheets/extra.css
@@ -99,9 +94,6 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js
-
-extra_files:
-  - docs/robots.txt
 
 copyright: |
   &copy; 2025 <a href="https://www.linkedin.com/in/rok-popov-ledinski/" target="_blank" rel="noopener">Rok Popov Ledinski</a>. All rights reserved.

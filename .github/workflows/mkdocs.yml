@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 
 permissions:
   contents: read
@@ -19,14 +16,27 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: squidfunk/mkdocs-material:9.4.6
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Build
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.8'
+      - name: Install dependencies
         run: |
-          mkdocs build
+          python -m pip install --upgrade pip
+          pip install mkdocs-material==9.1.15
+      - name: Fix Google Fonts
+        run: |
+          # Create cache directories
+          mkdir -p .cache/plugin/social
+          # Download fonts manually
+          curl -sfSL "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" > /dev/null
+          curl -sfSL "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf" -o .cache/plugin/social/roboto-regular.ttf
+          curl -sfSL "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAx05IsDqlA.ttf" -o .cache/plugin/social/roboto-bold.ttf
+      - name: Build
+        run: mkdocs build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact

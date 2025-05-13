@@ -13,6 +13,7 @@ nav:
       - portfolio/projects/ai-maddy.md
       - portfolio/projects/ai-coding-assistant.md
       - portfolio/projects/banking-ai-assistant.md
+      - portfolio/projects/ai-planning-suite.md
 
 theme:
   name: material

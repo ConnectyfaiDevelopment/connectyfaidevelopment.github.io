@@ -67,7 +67,7 @@ The approach delivered exceptional return on investment:
 Result: 10x first-year ROI with continuing benefits scaling across the organization.
 
 !!! tip "Behind the Technology"
-    Curious about the technical details behind this implementation? Read my article [**"Elevating Code Quality Through LLM Integration"**](../../../blog/posts/elevating-code-quality-through-llm-integration.md) where I explore how we used Abstract Syntax Trees and Knowledge Graphs to overcome traditional LLM limitations in code understanding.
+    Curious about the technical details behind this implementation? Read my article [**"Elevating Code Quality Through LLM Integration"**](../../blog/posts/elevating-code-quality-through-llm-integration.md) where I explore how we used Abstract Syntax Trees and Knowledge Graphs to overcome traditional LLM limitations in code understanding.
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 

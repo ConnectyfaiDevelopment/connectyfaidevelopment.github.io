@@ -26,4 +26,11 @@ While 80% of AI projects fail, these success stories demonstrate how evaluation-
     ---
 
     Rescued a failing banking AI pilot through systematic evaluation that identified critical RAG pipeline issues. Improved accuracy from 50% to 82%, reduced hallucinations by 70%, and enabled expansion from a single pilot to multiple banking clients without disrupting existing systems.
+
+-   [AI Planning Suite: From Disjointed Ops to Scalable Precision](projects/ai-planning-suite.md)
+
+    ---
+
+    Unified planning, auditing, and performance tracking into a single AI-powered system across agricultural facilities. Saved 300+ hours/month, eliminated planning errors, enabled 100% adoption, and boosted production efficiency by 3%—all without changing a single workflow.
+
 </div>

@@ -22,7 +22,7 @@ Sound familiar?
 <!-- more -->
 
 <div style="text-align: center; margin: 3rem 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="The 5 Mistakes That Kill AI Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XIG65ZlLLcM" title="The 5 Mistakes That Kill AI Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
   <p style="margin-top: 1rem; font-style: italic; color: #666;">Watch: The 5 critical mistakes that killed this $100K AI project (and how to avoid them)</p>
 </div>
 
@@ -278,7 +278,7 @@ Take the time to get these right. Your budget depends on it.
 The difference between AI success and failure isn't technical, it's strategic.
 
 <div style="text-align: center; margin: 3rem 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/v=XIG65ZlLLcM" title="How to Implement AI Successfully" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XIG65ZlLLcM" title="How to Implement AI Successfully" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
   <p style="margin-top: 1rem; font-style: italic; color: #666;">Ready to implement AI the right way? This video shows you exactly how.</p>
 </div>
 

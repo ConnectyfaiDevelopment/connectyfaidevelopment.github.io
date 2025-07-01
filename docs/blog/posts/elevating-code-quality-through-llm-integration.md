@@ -6,7 +6,7 @@ categories:
   - AI Assistant
   - Generative AI
   - AI Integration
-description: A lightning-fast Python package manager that will change how you work
+description: Journey into implementing a self-hosted enterprise ai coding assistant
 ---
 
 # Elevating Code Quality Through LLM Integration: Adyen's Venture into Augmented Unit Test Generation

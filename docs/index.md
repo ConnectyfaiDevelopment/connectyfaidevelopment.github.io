@@ -63,6 +63,30 @@ canonical_url: https://www.rokpopovledinski.com/
 
 [See Full Case Studies →](portfolio/index.md){ .md-button }
 
+<h3>Don't Take My Word For It…</h3>
+<section class="testimonial-section">
+  <div class="section-content">
+    <div class="testimonial-card">
+      <div class="testimonial-author">
+        <div class="testimonial-card-left">
+          <img src="assets/daveebbelaar.jpg" alt="Dave Ebbelaar" class="testimonial-photo">
+          <div class="testimonial-info">
+            <strong>Dave Ebbelaar</strong><br>
+            CEO & Founder @ Datalumina
+          </div>
+        </div>
+        <div class="testimonial-card-right">
+          <div class="testimonial-content">
+            <blockquote>
+              Over the past two years, I've worked with dozens of developers and AI engineers. It's rare to find someone like Rok who really gets AI engineering on a deep level. Not just from the software side, but also when it comes to LLMs and prompt design. Building AI products that actually make it to production requires both, and Rok nails that balance. He's helped us on several internal projects, often taking the lead and full ownership. He doesn't need a lot of input, he's super organized, and he just gets shit done.
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 ## Quick Intro
 
 Hi, I'm Rok - an independent AI engineer and applied consultant specializing in production-ready implementation. I help growth-stage companies deploy AI systems that actually work through evaluation-first methodology and technical expertise. With over 5 years of engineering experience at Adyen and hands-on AI project delivery, I focus on bridging strategy and execution to deliver measurable business value.

@@ -5,6 +5,7 @@ site_url: https://rokpopovledinski.com
 nav:
   - Home:
     - About: index.md
+  - Free AI Audit: legal.md
   - Blog:
     - blog/index.md 
   - Success Stories:

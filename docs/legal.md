@@ -1,5 +1,5 @@
 ---
-title: Legal Services AI Automation
+title: Legal Services FREE AI Audit
 description: Save 20-40 hours monthly on repetitive legal ops with AI systems that integrate with your existing workflow
 keywords: legal AI automation, law firm efficiency, legal operations, AI for lawyers
 author: Rok Popov Ledinski

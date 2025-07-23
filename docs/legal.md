@@ -126,8 +126,8 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 
 .legal-page .benefits-list li {
   padding: 16px 0;
-  font-size: 18px;
-  color: #374151;
+  font-size: 22px;
+  color: #00112c;
   border-bottom: 1px solid #f1f5f9;
   position: relative;
   padding-left: 32px;
@@ -162,17 +162,17 @@ canonical_url: https://www.rokpopovledinski.com/legal/
   font-size: 25px !important;
   font-weight: 400 !important;
   line-height: 1.6 !important;
-  color: #374151 !important;
+  color: #00112c !important;
   margin-bottom: 32px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
 .legal-page .problem-section .section-content p {
-  font-size: 20px !important;
+  font-size: 24px !important;
   font-weight: 400 !important;
   line-height: 1.6 !important;
-  color: #374151 !important;
+  color: #00112c !important;
   margin-bottom: 32px !important;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -188,7 +188,7 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 }
 
 .legal-page .pilot-slots-box p {
-  font-size: 16px !important;
+  font-size: 22px !important;
   font-weight: 300 !important;
   color: #6b7280 !important;
   margin: 0 !important;
@@ -196,7 +196,7 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 }
 
 .legal-page .results-section .pilot-slots-box p {
-  font-size: 20px !important;
+  font-size: 22px !important;
   font-weight: 400 !important;
   color: #6b7280 !important;
   margin: 0 !important;
@@ -291,10 +291,10 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 }
 
 .legal-page .social-proof-section .section-content p {
-  font-size: 20px !important;
+  font-size: 24px !important;
   font-weight: 400 !important;
   line-height: 1.6 !important;
-  color: #374151 !important;
+  color: #00112c !important;
   margin-bottom: 32px !important;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -311,14 +311,14 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 
 .legal-page .video-placeholder iframe {
   width: 100%;
-  max-width: 560px;
-  height: 315px;
+  max-width: 700px;
+  height: 394px;
   border-radius: 8px;
 }
 
 @media (max-width: 768px) {
   .legal-page .video-placeholder iframe {
-    height: 200px;
+    height: 250px;
   }
 }
 
@@ -399,9 +399,9 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 }
 
 .legal-page .process-step p {
-  font-size: 1rem;
+  font-size: 1.25rem;
   line-height: 1.6;
-  color: #6b7280;
+  color: #00112c;
   margin: 0;
 }
 
@@ -460,15 +460,106 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 .legal-page .faq-icon.open {
   transform: rotate(180deg);
 }
+
+.legal-page .before-after-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-top: 40px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.legal-page .before-column,
+.legal-page .after-column {
+  background: white;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.legal-page .before-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #ef4444;
+  text-align: center;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.legal-page .after-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+  text-align: center;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.legal-page .before-after-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.legal-page .before-after-item {
+  padding: 8px 0;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  line-height: 1.4;
+  background: none;
+  border: none;
+  border-radius: 0;
+  color: #00112c;
+  position: relative;
+  padding-left: 32px;
+}
+
+.legal-page .before-item:before {
+  content: "✗";
+  position: absolute;
+  left: 0;
+  color: #ef4444;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.legal-page .after-item:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--md-accent-fg-color);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* .legal-page .before-item {
+  color: #991b1b;
+}
+
+.legal-page .after-item {
+  color: #166534;
+} */
+
+@media (max-width: 768px) {
+  .legal-page .before-after-container {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
 </style>
 
 <div class="legal-page">
 
 <section class="hero-section">
   <div class="hero-content">
-    <h1 class="hero-title">Stop Loosing €5-15k/Month on Non-Billable Legal Work</h1>
+    <h1 class="hero-title">Stop Losing €5-15k/Month on Non-Billable Legal Work</h1>
     <p class="hero-subtitle">Without New Tools, Hiring Engineers, or Workflow Disruption</p>
-    <p class="hero-description">For small legal teams (1–10 people) buried in intake, document prep, and admin, I build AI systems that fit your existing tools and free your time fast.</p>
+    <!-- <p class="hero-description">For small legal teams (1–10 people) buried in intake, document prep, and admin, I build AI systems that fit your existing tools and free your time fast.</p> -->
     <div class="hero-cta">
       <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button primary">
         Book My Free AI Audit Call
@@ -479,22 +570,33 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 </section>
 
 <section class="trust-section">
-  <div class="trust-grid">
-    <div class="trust-item">
-      <span class="trust-icon">✔️</span>
-      <span>No new platforms to learn</span>
-    </div>
-    <div class="trust-item">
-      <span class="trust-icon">✔️</span>
-      <span>No need to hire engineers</span>
-    </div>
-    <div class="trust-item">
-      <span class="trust-icon">✔️</span>
-      <span>No disruption to your workflow</span>
-    </div>
-    <div class="trust-item">
-      <span class="trust-icon">✔️</span>
-      <span>Fast results in weeks, not months</span>
+  <div class="section-content">
+    <h2>Why You Need to Automate Legal Operations</h2>
+    <div class="before-after-container">
+      <div class="before-column">
+        <h3 class="before-title">Before</h3>
+        <div class="before-after-list">
+          <div class="before-after-item before-item">Manual Client Intake</div>
+          <div class="before-after-item before-item">Unbillable Admin Hours</div>
+          <div class="before-after-item before-item">Scattered Client Communications</div>
+          <div class="before-after-item before-item">Repetitive Contract Drafting</div>
+          <div class="before-after-item before-item">Time Tracking Nightmares</div>
+          <div class="before-after-item before-item">Learning Complex AI Tools</div>
+          <div class="before-after-item before-item">€5-15k Monthly Revenue Loss</div>
+        </div>
+      </div>
+      <div class="after-column">
+        <h3 class="after-title">After</h3>
+        <div class="before-after-list">
+          <div class="before-after-item after-item">Automated Client Intake</div>
+          <div class="before-after-item after-item">20+ Billable Hours Reclaimed</div>
+          <div class="before-after-item after-item">Centralized Client Management</div>
+          <div class="before-after-item after-item">AI-Powered Contract Drafts</div>
+          <div class="before-after-item after-item">Automatic Time Capture</div>
+          <div class="before-after-item after-item">Works with Your Current Tools</div>
+          <div class="before-after-item after-item">€5-15k Additional Monthly Revenue</div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -518,7 +620,7 @@ canonical_url: https://www.rokpopovledinski.com/legal/
 <section class="results-section">
   <div class="section-content">
     <h2>What You’ll Get in FREE AI Audit</h2>
-    <p class="results-intro">This system has already helped small firms <strong>reclaim 20–40 hours/month</strong> and reduce repetitive admin by <strong>up to 60%</strong>.</p>
+    <p class="results-intro">This system has already helped small firms <strong>reclaim 20 - 40 hours/month</strong> and reduce repetitive admin by <strong>up to 60%</strong>.</p>
     <div class="pilot-slots-box">
       <p>I'm opening <strong>2 final pilot slots</strong> before transitioning to fully paid engagements.</p>
     </div>

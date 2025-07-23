@@ -133,7 +133,7 @@
 }
 
 .legal-page .hero-section {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 80px 20px;
   text-align: center;
@@ -152,7 +152,7 @@
 }
 
 .legal-page .hero-title {
-  font-size: 56px;
+  font-size: 64px;
   font-weight: 700;
   line-height: 1.1;
   margin-bottom: 24px;
@@ -161,11 +161,11 @@
 }
 
 .legal-page .hero-subtitle {
-  font-size: 24px;
-  font-weight: 400;
-  color: #6b7280;
+  font-size: 36px;
+  font-weight: 700;
+  color: #111827;
   margin-bottom: 32px;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .legal-page .hero-description {
@@ -209,14 +209,13 @@
 
 .legal-page .cta-subtext {
   margin-top: 12px;
-  font-size: 14px;
+  font-size: 26px;
   color: #6b7280;
   font-style: italic;
 }
 
 .legal-page .trust-section {
   background: #f9fafb;
-  padding: 60px 20px;
   border-top: 1px solid #e5e7eb;
   border-bottom: 1px solid #e5e7eb;
 }
@@ -486,11 +485,11 @@
 
 @media (max-width: 768px) {
   .legal-page .hero-title {
-    font-size: 36px;
+    font-size: 42px;
   }
   
   .legal-page .hero-subtitle {
-    font-size: 20px;
+    font-size: 32px;
   }
   
   .legal-page .hero-description {
@@ -556,7 +555,6 @@
 
 .legal-page .trust-section {
   background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
-  padding: 80px 20px;
   position: relative;
   overflow: hidden;
 }
@@ -602,7 +600,7 @@
 }
 
 .legal-page .trust-item span:not(.trust-icon) {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
   color: #1e293b;
   line-height: 1.4;

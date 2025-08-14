@@ -1,5 +1,5 @@
 ---
-title: Success Stories
+title: Proof
 description: Production-ready AI implementation by Rok Popov Ledinski. Proven solutions that transform AI failures into measurable business success through evaluation-first methodology.
 ---
 

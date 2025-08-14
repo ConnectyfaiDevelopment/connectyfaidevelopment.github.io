@@ -83,7 +83,7 @@ But instead, you get a chatbot widget that sounds smart but saves exactly zero h
 
 <div class="grid cards" style="margin-top: 2rem" markdown>
 
--   :material-search:{ .lg .middle } **Not sure what your biggest bottlenecks are?**
+-   :material-map-search-outline:{ .lg .middle } **Not sure what your biggest bottlenecks are?**
 
     ---
     

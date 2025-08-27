@@ -1331,7 +1331,7 @@ body, * {
 <section class="hero-section">
   <div class="hero-content">
     <div class="badge">
-      FREE R.A.P.I.D. WORKFLOW AUDIT FOR SMALL LAW FIRMS
+      R.A.P.I.D. WORKFLOW AUDIT FOR SMALL LAW FIRMS
     </div>
     
     <h1 class="hero-title">
@@ -1344,11 +1344,11 @@ body, * {
     </p>
     
     <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">
-      Book A Free R.A.P.I.D. Process Audit
+      Book A R.A.P.I.D. Process Audit
     </a>
     
     <p class="cta-subtext">
-      2 pilot engagements left
+      We do only 2 of these every month!
     </p>
 
     <!-- Hero Testimonial Card
@@ -1470,7 +1470,7 @@ body, * {
     
     <div class="cta-container">
       <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">
-        Book A Free R.A.P.I.D. Process Audit
+        Book A R.A.P.I.D. Process Audit
       </a>
       <p class="cta-subtext">Get your AI readiness check - no pressure, instant value</p>
     </div>
@@ -1561,7 +1561,7 @@ body, * {
     
     <div class="rapid-cta">
       <h3 class="cta-headline">Experience it yourself and say goodbye to administrative chaos</h3>
-      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A Free R.A.P.I.D. Process Audit</a>
+      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A R.A.P.I.D. Process Audit</a>
       <p class="guarantee">14 Day No-Questions Money Back Guarantee</p>
     </div>
   </div>
@@ -1607,7 +1607,7 @@ body, * {
     </div>
     
     <div class="before-after-cta">
-      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A Free R.A.P.I.D. Process Audit</a>
+      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A R.A.P.I.D. Process Audit</a>
     </div>
   </div>
 </section>
@@ -1637,7 +1637,7 @@ body, * {
     </div>
     
     <div class="offer-cta">
-      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A Free R.A.P.I.D. Process Audit</a>
+      <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A R.A.P.I.D. Process Audit</a>
     </div>
   </div>
 </section>
@@ -1743,8 +1743,8 @@ body, * {
   <div class="cta-content">
     <h2>Let's Get Started</h2>
     <p>Ready to see exactly where you're losing hours? Let's start with your free audit.</p>
-    <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A Free R.A.P.I.D. Process Audit</a>
-    <p class="cta-subtext">(Just 2 pilot spots left)</p>
+    <a href="https://cal.com/rok-popov-ledinski/free-ai-audit" class="cta-button">Book A R.A.P.I.D. Process Audit</a>
+    <p class="cta-subtext">(We do only 2 of these every month)</p>
   </div>
 </section>
 
